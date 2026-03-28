@@ -4,10 +4,10 @@ Dear Professor,
 
 I hope this email finds you well.
 
-I am writing to respectfully request a short extension for the Python due on April 2nd,2026.Unfortunately,I have encountered some unexpected challenges in
+I am writing to respectfully request a short extension for the Python due on April 2nd, 2026.Unfortunately,I have encountered some unexpected challenges in
 documenting the Python logic required for this task and would appreciate a little more time to ensure my analysis is accurate.
 
-I am committed to submitting high-quality work and would appreciate it if I could submit the assignment by April 5th,2026, instead.
+I am committed to submitting high-quality work and would appreciate it if I could submit the assignment by April 5th, 2026, instead.
 
 Thank you for your time and consideration.
 
