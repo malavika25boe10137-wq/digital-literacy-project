@@ -4,7 +4,7 @@ Dear Professor,
 
 I hope this email finds you well.
 
-I am writing to respectfully request a short extension for the Python due on April 2nd, 2026.Unfortunately,I have encountered some unexpected challenges in
+I am writing to respectfully request a short extension for the Python due on April 2nd, 2026.Unfortunately, I have encountered some unexpected challenges in
 documenting the Python logic required for this task and would appreciate a little more time to ensure my analysis is accurate.
 
 I am committed to submitting high-quality work and would appreciate it if I could submit the assignment by April 5th, 2026, instead.
@@ -20,7 +20,7 @@ VIT Bhopal University
 
 Dear Internship Coordinator,
 
-I am a first-year Bioengineering student at VIT Bhopal University with a strong interest in Molecular Biology.
+I am a first year Bioengineering student at VIT Bhopal University with a strong interest in Molecular Biology.
 
 I have been following Computational Biology and Molecular Simulation Lab's work in Analyzing Protein-Ligand Interactions in Synthetic Biological Systems,
 and I am eager to apply my growing skills in Python
