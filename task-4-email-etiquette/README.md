@@ -1,49 +1,46 @@
-# 1. Email to a Professor (Deadline Extension) 
+# Task 4: Email Etiquette and Social Media Checklist
 
-Dear Professor,
+## Part A: Professional Emails
 
-I hope this email finds you well.
+### 1. Request for Deadline Extension
+**Subject:** Request for Extension: Digital Literacy Project 
 
-I am writing to respectfully request a short extension for the Python case study due on April 2nd, 2026.Unfortunately, I have encountered some unexpected challenges in
-documenting the Python logic required for this task and would appreciate a little more time to ensure my analysis is accurate.
+Dear Professor,  
 
-I am committed to submitting high-quality work and would appreciate it if I could submit the assignment by April 5th, 2026, instead.
+I am writing to respectfully request a short extension for the Digital Literacy Project due on March 30th. Due to an unexpected overlap in mid-term preparation for my Physics and Python exams, I am finding it difficult to give this assignment the technical depth it deserves.  
 
-Thank you for your time and consideration.
+I would appreciate it if I could submit the assignment by April 2nd instead. Thank you for your time and consideration.  
 
-Sincerely,
-Malavika KR
-B.Tech Bioengineering, 1st Year
-VIT Bhopal University
+**Sincerely,** MALAVIKA KR  
+B.Tech Bioengineering, 1st Year  
 
-# 2. Email to an Internship Coordinator
+---
 
-Dear Internship Coordinator,
+### 2. Internship Inquiry
+**Subject:** Inquiry Regarding Summer Internship Opportunities 
 
-I am a first year Bioengineering student at VIT Bhopal University with a strong interest in Molecular Biology.
+Dear Internship Coordinator,  
 
-I have been following Computational Biology and Molecular Simulation Lab's work in Analyzing Protein-Ligand Interactions in Synthetic Biological Systems,
-and I am eager to apply my growing skills in Python
-and laboratory techniques to support your team this summer.
+I am a first-year Bioengineering student at VIT Bhopal University. I have been following the **Laboratory of Bio-Inspired Systems & Engineering's** work in **Bio-Inspired Polymers**, and I am eager to apply my growing skills in Python to support your team this summer.  
 
-Please find my resume attached for your review. I would welcome the opportunity to discuss how I can contribute to your projects.
+Please find my resume attached for your review.  
 
-Best regards,
-Malavika KR
-www.linkedin.com/in/malavika-kr-21ba933ba
+**Best regards,** MALAVIKA KR
 
-# Part B: Social Media Checklist
+---
 
-# Professional Social Media Do's
-1.Do use a professional headshot
-2.Do share industry-relevant content
-3.Do use clear and formal language: 
-4.Do network strategically: 
-5.Do keep your 'Bio' updated
+## Part B: Social Media Checklist
 
-# Professional Social Media Don'ts
-1.Don’t share confidential data
-2.Don’t engage in public arguments
-3.Don’t post unprofessional media
-4.Don’t tag others in irrelevant posts
-5.Don’t ignore privacy settings: 
+### Professional Do's
+* **Do** use a professional headshot for LinkedIn.  
+* **Do** share industry-relevant content about Bioengineering.  
+* **Do** use clear and formal language in posts.  
+* **Do** network with researchers from IISER Pune and BITS Pilani.  
+* **Do** keep your 'Bio' updated with your current year of study.  
+
+### Professional Don'ts
+* **Don’t** share confidential lab results or data.  
+* **Don’t** engage in public arguments or "flaming."  
+* **Don’t** post unprofessional media on public profiles.  
+* **Don’t** tag others in irrelevant or spammy posts.  
+* **Don’t** ignore privacy settings on personal accounts.
