@@ -11,7 +11,8 @@ I am writing to respectfully request a short extension for the Digital Literacy 
 
 I would appreciate it if I could submit the assignment by April 2nd instead. Thank you for your time and consideration.  
 
-**Sincerely,** MALAVIKA KR  
+**Sincerely,**  
+MALAVIKA KR  
 B.Tech Bioengineering, 1st Year  
 
 ---
@@ -25,7 +26,8 @@ I am a first-year Bioengineering student at VIT Bhopal University. I have been f
 
 Please find my resume attached for your review.  
 
-**Best regards,** MALAVIKA KR
+**Best regards,**  
+MALAVIKA KR
 
 ---
 
