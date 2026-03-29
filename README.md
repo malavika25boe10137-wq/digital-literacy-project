@@ -26,7 +26,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 ### [Task 3: Platforms & Collaboration](./task-3-platforms/)
 * **Technical Skills:** Proficiency in Python via **HackerRank**.
 * **Collaboration Tools:** Development of a **Google Form Quiz** integrated with a **Google Sheet** for automated data collection.
-* **Live Quiz Link:**  https://forms.gle/KTLZmQb9mBq6VQQo9🔗
+* **Live Quiz Link:**  https://forms.gle/y7d2mET2JNVVgrb8A
 
 ### [Task 4: Professional Email Etiquette](./task-4-email-etiquette/)
 * **Communication:** Drafted professional correspondence for an academic extension and an internship inquiry.
