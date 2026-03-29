@@ -46,8 +46,4 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 * **Security:** Two-Factor Authentication (2FA) & UPI Security Protocols
 
 
-
-
-    # Task 3: Digital Literacy Quiz
-  https://forms.gle/KTLZmQb9mBq6VQQo9
     
