@@ -14,3 +14,8 @@ This repository contains the completed tasks for the Digital Literacy course.
 * **Task 3:** Coding & Collaboration 
 * **Task 4:** Email Etiquette & Social Media 
 * **Task 5:** Cybercrime Awareness 
+
+
+    # Task 3: Digital Literacy Quiz
+  https://forms.gle/KTLZmQb9mBq6VQQo9
+    
