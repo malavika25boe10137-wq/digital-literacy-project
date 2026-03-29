@@ -27,7 +27,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 * **Technical Skills:** Proficiency in Python via **HackerRank**.
 * **Collaboration Tools:** Development of a **Google Form Quiz** integrated with a **Google Sheet** for automated data collection.
 * **Live Quiz Link:** https://forms.gle/NXrnfFbtbtPTnets9
-### [Task 4: Professional Email Etiquette](./task-4-email-etiquette/)
+### [Task 4: Professional Email and Social Media Etiquette](./task-4-email-and-social-media-etiquette)
 * **Communication:** Drafted professional correspondence for an academic extension and an internship inquiry.
 * **Safety Rules:** A curated list of "Do's and Don'ts" for secure and effective digital communication.
 
