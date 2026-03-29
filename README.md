@@ -1,4 +1,4 @@
-# Digital Literacy Project (BCS-1002)
+# Digital Literacy Project (CSE0001)
 **Student Name:** MALAVIKA KR  
 **Registration Number:** 25BOE10137  
 **Branch:** B.Tech Bioengineering  
