@@ -1,6 +1,6 @@
 # Digital Literacy Project (BCS-1002)
 **Student Name:** MALAVIKA KR  
-**Registration Number:** 25BOE10137
+**Registration Number:** 25BOE10137  
 **Branch:** B.Tech Bioengineering  
 **University:** VIT Bhopal University  
 
