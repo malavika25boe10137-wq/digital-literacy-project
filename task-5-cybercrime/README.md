@@ -1,14 +1,20 @@
-# Task 5: Cybercrime Case Study
+# Task 5: Cybercrime Case Study & Safety Analysis
 
-## Case Study: UPI QR Code Fraud
-In a common UPI scam, a victim listed an item for sale on an online marketplace. The fraudster, posing as a buyer, sent a QR code via WhatsApp, claiming it was for "receiving the payment." Trusting the buyer, the victim scanned the code and entered their UPI PIN. Within seconds, ₹25,000 was debited from their account instead of being credited. This happened because UPI PINs are only required for **sending** money, never for receiving it. The scammer exploited the victim’s lack of technical knowledge regarding UPI protocols and the sense of urgency created during the transaction.
+## Case Study: The "OLX" QR Code Scam
+A common but highly effective cybercrime involves exploiting the "Request Money" feature on UPI apps. In a recent incident, a student listed an old engineering textbook for sale on a popular online marketplace. Within minutes, a "buyer" contacted them, agreeing to the full price without any negotiation—a classic red flag. 
 
-## Digital Safety Checklist (8 Essential Tips)
-1. **Never enter your UPI PIN** to receive money; it is only for authorizing outgoing payments.
-2. **Enable Two-Factor Authentication (2FA)** on all social media, email, and banking accounts.
-3. **Verify the sender’s email address** before clicking any links to avoid phishing attempts.
-4. **Use unique, complex passwords** for every account and avoid using birthdays or names.
-5. **Never share your OTP** (One Time Password) with anyone, even if they claim to be bank officials.
-6. **Avoid using public Wi-Fi** for financial transactions; use a secure mobile hotspot instead.
-7. **Check for "https://"** and the padlock icon in the browser bar before entering data on any website.
-8. **Report cybercrimes immediately** by calling the National Helpline at **1930** or visiting the official portal at `cybercrime.gov.in`.
+To "pay" the student, the fraudster sent a QR code over WhatsApp, claiming it was a "Payment Received" voucher that needed to be scanned to claim the funds. The student, hurried and unfamiliar with how UPI protocols actually work, scanned the code and was prompted to enter their UPI PIN. Because the interface looked official, they entered the PIN, expecting a credit to their bank account. Instead, ₹12,000 was instantly withdrawn. 
+
+The scammer immediately blocked the student and deleted the chat. This case highlights a critical gap in digital literacy: the misconception that a PIN is required to receive money. In reality, a UPI PIN is strictly an authorization for *outgoing* transactions. The fraud succeeded by combining technical trickery with psychological pressure.
+
+## My Digital Safety Checklist
+To stay secure in a digital-first environment, I follow these 8 essential rules:
+
+1. **PIN is for Sending Only:** I never enter my UPI PIN when expecting to receive a payment from someone else.
+2. **Double-Check IDs:** Always verify the UPI ID or bank name displayed on the screen before hitting "Pay."
+3. **Avoid Public Wi-Fi for Banking:** I only use my private mobile data or a trusted home network for financial tasks to prevent "man-in-the-middle" attacks.
+4. **The 1930 Rule:** If I suspect a fraud has occurred, I will immediately call the National Cyber Crime Helpline at **1930**.
+5. **Two-Factor is Mandatory:** I have enabled 2FA (Two-Factor Authentication) on my Gmail and WhatsApp to prevent unauthorized logins.
+6. **QR Code Caution:** I treat QR codes from strangers as potential "Withdrawal Requests" rather than "Payment Links."
+7. **Screen Lock Privacy:** I use biometric locks (fingerprint/face ID) for my banking apps so they cannot be accessed if my phone is stolen.
+8. **Official Reporting:** Any suspicious activity should be documented with screenshots and reported at `cybercrime.gov.in`.
