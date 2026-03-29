@@ -20,7 +20,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 
 ### [Task 2: Professional Online Presence](./task-2-portfolio/)
 * **Focus:** Building a digital identity for career growth.
-* **Evidence:** Verified screenshots of my **LinkedIn** profile and **GitHub** account setup.
+* **Evidence:** Verified screenshots of my **LinkedIn** profile, **ResearchGate** profile and **GitHub** account setup.
 * **Goal:** Establishing a professional network within the biotechnology and cosmetic engineering industries.
 
 ### [Task 3: Platforms & Collaboration](./task-3-platforms/)
