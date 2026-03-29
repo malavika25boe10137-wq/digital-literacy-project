@@ -16,7 +16,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 ### [Task 1: Digital Literacy Infographic](./task-1-presentation/)
 * **Topic:** Digital Literacy in Bioengineering & Academic Integrity.
 * **Content:** A visual breakdown of essential digital skills for engineers, including data analysis, ethical AI usage, and computational biology tools.
-* **Format:** High-resolution Infographic (PNG/PDF).
+* **Format:** High-resolution Infographic 
 
 ### [Task 2: Professional Online Presence](./task-2-portfolio/)
 * **Focus:** Building a digital identity for career growth.
