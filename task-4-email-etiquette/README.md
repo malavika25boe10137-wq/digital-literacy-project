@@ -29,18 +29,3 @@ Please find my resume attached for your review.
 
 ---
 
-## Part B: Social Media Checklist
-
-### Professional Do's
-* **Do** use a professional headshot for LinkedIn.  
-* **Do** share industry-relevant content about Bioengineering.  
-* **Do** use clear and formal language in posts.  
-* **Do** network with researchers from IISER Pune and BITS Pilani.  
-* **Do** keep your 'Bio' updated with your current year of study.  
-
-### Professional Don'ts
-* **Don’t** share confidential lab results or data.  
-* **Don’t** engage in public arguments or "flaming."  
-* **Don’t** post unprofessional media on public profiles.  
-* **Don’t** tag others in irrelevant or spammy posts.  
-* **Don’t** ignore privacy settings on personal accounts.
