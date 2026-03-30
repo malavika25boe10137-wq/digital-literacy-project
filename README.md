@@ -4,7 +4,7 @@
 **Branch:** B.Tech Bioengineering  
 **University:** VIT Bhopal University  
 
----
+----
 
 ##  Project Overview
 This repository serves as a comprehensive portfolio for the **Digital Literacy** course. It demonstrates proficiency in version control (GitHub), professional communication, collaborative digital tools, and cybersecurity awareness. As a Bioengineering student, I have integrated these digital competencies to show their application in modern scientific research and data management.
@@ -35,6 +35,22 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 * **Case Analysis:** Detailed study of **UPI QR Code Fraud**, specifically targeting students in online marketplaces.
 * **Safety Framework:** An 8-point digital safety checklist, including protocol for reporting to the National Cyber Crime Helpline (**1930**).
 
+---
+
+###   Project Report : Digital Literacy (CSE001)
+This folder contains the formal consolidated report for the **Digital Literacy (CSE001)** project. The report serves as a detailed synthesis of all five tasks completed during the semester, providing technical descriptions, personal reflections, and evidence of work.
+
+###  File Details
+* **File Name:** `Project_Report.pdf` 
+* **Format:** PDF (A4 Standard)
+* **Contents:**
+    1. **Introduction:** Overview of digital literacy in a professional engineering context.
+    2. **Task 1:** Visual Communication (Infographic Analysis).
+    3. **Task 2:** Professional Presence (LinkedIn & GitHub Optimization).
+    4. **Task 3:** Collaborative Platforms (Python Logic & Data Management).
+    5. **Task 4:** Professional Etiquette (Email & Social Media Protocols).
+    6. **Task 5:** Cybersecurity (UPI Case Study & Safety Framework).
+    7. **Conclusion:** Final summary of digital competency gains.
 ---
 
 ##  Tools & Technologies Used
