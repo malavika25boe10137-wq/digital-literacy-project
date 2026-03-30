@@ -37,22 +37,6 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 
 ---
 
-###   Project Report : Digital Literacy (CSE001)
-This folder contains the formal consolidated report for the **Digital Literacy (CSE001)** project. The report serves as a detailed synthesis of all five tasks completed during the semester, providing technical descriptions, personal reflections, and evidence of work.
-
-###  File Details
-* **File Name:** `Project_Reort.pdf` 
-* **Format:** PDF (A4 Standard)
-* **Contents:**
-    1. **Introduction:** Overview of digital literacy in a professional engineering context.
-    2. **Task 1:** Visual Communication (Infographic Analysis).
-    3. **Task 2:** Professional Presence (LinkedIn & GitHub Optimization).
-    4. **Task 3:** Collaborative Platforms (Python Logic & Data Management).
-    5. **Task 4:** Professional Etiquette (Email & Social Media Protocols).
-    6. **Task 5:** Cybersecurity (UPI Case Study & Safety Framework).
-    7. **Conclusion:** Final summary of digital competency gains.
----
-
 ##  Tools & Technologies Used
 * **Version Control:** Git & GitHub
 * **Programming:** Python
