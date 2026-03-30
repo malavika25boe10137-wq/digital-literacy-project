@@ -41,7 +41,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy**
 This folder contains the formal consolidated report for the **Digital Literacy (CSE001)** project. The report serves as a detailed synthesis of all five tasks completed during the semester, providing technical descriptions, personal reflections, and evidence of work.
 
 ###  File Details
-* **File Name:** `Project_Report.pdf` 
+* **File Name:** `Project_Reort.pdf` 
 * **Format:** PDF (A4 Standard)
 * **Contents:**
     1. **Introduction:** Overview of digital literacy in a professional engineering context.
